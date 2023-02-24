@@ -8,6 +8,11 @@ export const environment = {
     email : {
       url:'https://formspree.io/f/******'
     }
+  },
+  application: {
+    name:'Le Cabinet de Curiosités',
+    version:'Angular 13.2.0',
+    colorTheme:'#083148'
   }
 };
 
